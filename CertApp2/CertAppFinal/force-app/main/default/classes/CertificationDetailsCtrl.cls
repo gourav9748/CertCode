@@ -1,7 +1,7 @@
 public class CertificationDetailsCtrl {
     
     
-    //insert new user record
+    //insert new user record comment
     @AuraEnabled
     public static string newUserReg(String name, String idnew, String Email, String Location)
     {
